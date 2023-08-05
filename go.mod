@@ -3,7 +3,7 @@ module github.com/anasrar/bulkdl
 go 1.20
 
 require (
-	github.com/go-zoox/fetch v1.7.7
+	github.com/go-zoox/fetch v1.7.12
 	github.com/zenthangplus/goccm v1.1.3
 	gopkg.in/yaml.v3 v3.0.1
 )
@@ -35,5 +35,3 @@ require (
 	golang.org/x/term v0.8.0 // indirect
 	golang.org/x/text v0.9.0 // indirect
 )
-
-replace github.com/go-zoox/fetch => github.com/anasrar/go-fetch v0.0.0-20230713122322-e1aa4943ba77

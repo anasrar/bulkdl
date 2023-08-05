@@ -18,6 +18,8 @@ github.com/go-zoox/core-utils v1.2.11 h1:3h8P4d+P1XTEzi6M68CywUfy4p8WEZOFuWME8uI
 github.com/go-zoox/core-utils v1.2.11/go.mod h1:Y6izFcxuELrkOen5mTQccCJxJqqPJaZV5dQtUMBdkBM=
 github.com/go-zoox/fetch v1.7.7 h1:Uw4ldGYxzfZ+eXZDpxVEmLpoJsXEen1g58XLV70euTM=
 github.com/go-zoox/fetch v1.7.7/go.mod h1:zaDVj8s8gPFzEeFFsD2oWc5D1z8uKKQwwnilmPdSQOk=
+github.com/go-zoox/fetch v1.7.12 h1:q3x9ol6ylas4HL0YLMDkUZeCFHT+AbB9LT6SxciD/h0=
+github.com/go-zoox/fetch v1.7.12/go.mod h1:zaDVj8s8gPFzEeFFsD2oWc5D1z8uKKQwwnilmPdSQOk=
 github.com/go-zoox/headers v1.0.6 h1:LJvVaqs6d+QUvV0sNU8qHFkeyQlECu0mJau1nVFsEQU=
 github.com/go-zoox/headers v1.0.6/go.mod h1:WEgEbewswEw4n4qS1iG68Kn/vOQVCAKGwwuZankc6so=
 github.com/lucasb-eyer/go-colorful v1.2.0 h1:1nnpGOrhyZZuNyfu1QjKiUICQ74+3FNCN69Aj6K7nkY=
